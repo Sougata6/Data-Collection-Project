@@ -1,0 +1,26 @@
+body {
+    background-color: blue;
+}
+h2 {
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    background-color: powderblue;
+    font-size: 20px;
+    text-align: center;
+}
+div {
+    background-color: pink;
+    text-align: center;
+    font-size: 18px;
+}
+input[id="submit"] {
+    font-size: 20px;
+    color: blue;
+    background-color: skyblue;
+}
+.size {
+    font-size: 16px;
+}
